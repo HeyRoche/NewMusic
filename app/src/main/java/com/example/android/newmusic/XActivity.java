@@ -21,6 +21,7 @@ public class XActivity extends AppCompatActivity {
         nextPlaylist();
 
         ArrayList<Music> title = new ArrayList<Music>();
+        //Images added after looking over the Android Flavor App
 
         title.add(new Music(R.drawable.question, "Sad!", "?"));
         title.add(new Music(R.drawable.seventeen, "Jocelyn Flores", "17"));

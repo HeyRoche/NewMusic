@@ -41,6 +41,7 @@ public class Music {
         return mAlbumName;
     }
 
+    //Concept learned by looking at Android Flavor App
     /**
      * Get album image.
      */

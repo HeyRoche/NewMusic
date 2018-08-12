@@ -21,6 +21,7 @@ public class Billie extends AppCompatActivity {
         nextPlaylist();
 
         ArrayList<Music> title = new ArrayList<Music>();
+        //Images added after looking over the Android Flavor App
 
         title.add(new Music(R.drawable.lovelycoverart, "lovely (with Khalid)", "single"));
         title.add(new Music(R.drawable.crowncoverart, "you should see me in a crown", "single"));
